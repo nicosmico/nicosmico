@@ -42,37 +42,7 @@
 
 ###
 
-<h3 align="left">Alepod</h3>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
-
-###
-
-<p align="left">Sitio web estático para una podología a domicilio.<br>El sitio cuenta con un mapa interactivo de las zonas donde atiende la podóloga. Además, con botones para abrir la aplicación de teléfono o Whatsapp. También, con tests en Cypress.</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Planishare</h3>
+<h3 align="left">Planishare 📖</h3>
 
 ###
 
@@ -100,6 +70,67 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Alepod 👣</h3>
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
+
+###
+
+<p align="left">Sitio web estático para una podología a domicilio.<br>El sitio cuenta con un mapa interactivo de las zonas donde atiende la podóloga. Además, con botones para abrir la aplicación de teléfono o Whatsapp.</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Dividy 💸</h3>
+<p align="left">(En construcción 🏗️)</p>
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/planishare.png?raw=true"  />
+
+###
+
+<p align="left">Aplicación web para dividir cuentas con amigos.<br>El sitio permite ingresar los miembros de un grupo, las compras que ha hecho cada uno y calcular las deudas totales entre cada uno de los miembros.<br>Aún está en desarrollo, pero más adelante se espera contar con autenticación, compartir boletas, entre otras características.</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 ###
