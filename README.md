@@ -85,7 +85,7 @@
 <br clear="both">
 
 <img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/dividy.png?raw=true"  />
-<h3 align="left">💸 Dividy <small>(En construcción 🏗️)</small></h3>
+<a href="https://dividy.netlify.app/"><h3 align="left">💸 Dividy <small>(En construcción 🏗️)</small></h3></a>
 <p align="left">Aplicación web para dividir cuentas con amigos.<br>El sitio permite ingresar compras y calcular las deudas totales entre cada uno de los miembros. Aún está en desarrollo, pero próximamente se podrán compartir boletas y otras características.</p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
