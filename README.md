@@ -37,3 +37,47 @@
 </div>
 
 ###
+
+<h1 align="left">Proyectos</h1>
+
+###
+
+<h3 align="left">Alepod</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+</div>
+
+###
+
+<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
+
+###
+
+<p align="left">Sitio web estático para una podología a domicilio.<br>El sitio cuenta con un mapa interactivo  de las zonas donde atiende la podóloga. También, con botones para abrir la aplicación de teléfono o Whatsapp.</p>
+
+###
+
+<br clear="both">
+
+<p align="left">Hello World!!</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
