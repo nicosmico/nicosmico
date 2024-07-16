@@ -38,13 +38,11 @@
 
 ###
 
-<h1 align="left">Proyectos</h1>
+<h1 align="left">Proyectos (Los más bonitos ✨ jaja)</h1>
 
 ###
 
 <h3 align="left">📖 Planishare</h3>
-
-###
 
 <br clear="both">
 
@@ -78,8 +76,6 @@
 
 <h3 align="left">👣 Alepod</h3>
 
-###
-
 <br clear="both">
 
 <img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
@@ -107,8 +103,6 @@
 <br clear="both">
 
 <h3 align="left">💸 Dividy <small>(En construcción 🏗️)</small></h3>
-
-###
 
 <br clear="both">
 
