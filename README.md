@@ -46,6 +46,16 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
+
+###
+
+<p align="left">Sitio web estático para una podología a domicilio.<br>El sitio cuenta con un mapa interactivo de las zonas donde atiende la podóloga. Además, con botones para abrir la aplicación de teléfono o Whatsapp. También, con tests en Cypress.</p>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -60,24 +70,36 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
+<br clear="both">
 
-###
-
-<p align="left">Sitio web estático para una podología a domicilio.<br>El sitio cuenta con un mapa interactivo  de las zonas donde atiende la podóloga. También, con botones para abrir la aplicación de teléfono o Whatsapp.</p>
+<h3 align="left">Planishare</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/planishare.png?raw=true"  />
 
 ###
 
-<br clear="both">
+<p align="left">Aplicación web para que profesores y estudiantes de pedagogía compartan recursos educativos.<br>El sitio cuenta con autenticación y permite visualizar archivos de Microsoft Office (documentos de Word, Excel y Power point) y PDFs.</p>
+
+###
 
 <div align="left">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
 ###
