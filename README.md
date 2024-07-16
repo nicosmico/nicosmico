@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Planishare 📖</h3>
+<h3 align="left">📖 Planishare</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 <br clear="both">
 
-<h3 align="left">Alepod 👣</h3>
+<h3 align="left">👣 Alepod</h3>
 
 ###
 
@@ -106,8 +106,7 @@
 
 <br clear="both">
 
-<h3 align="left">Dividy 💸</h3>
-<p align="left">(En construcción 🏗️)</p>
+<h3 align="left">💸 Dividy <small>(En construcción 🏗️)</small></h3>
 
 ###
 
