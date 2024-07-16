@@ -43,7 +43,7 @@
 ###
 
 <img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/planishare.png?raw=true"  />
-<h3 align="left">📖 Planishare</h3>
+<h3 align="left">📖 Planishare https://planishare.web.app/</h3>
 <p align="left">Aplicación web para que profesores y estudiantes de pedagogía compartan recursos educativos.<br>El sitio cuenta con autenticación y permite visualizar archivos de Microsoft Office (documentos de Word, Excel y Power point) y PDFs.</p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -66,7 +66,7 @@
 <br clear="both">
 
 <img align="left" height="200" src="https://github.com/nicosmico/nicosmico/blob/main/images/alepod.png?raw=true"  />
-<h3 align="left">👣 Alepod</h3>
+<h3 align="left">👣 Alepod https://alepod.web.app/</h3>
 <p align="left">Sitio web estático para una podología a domicilio.<br>El sitio cuenta con un mapa interactivo de las zonas donde atiende la podóloga. Además, con botones para abrir la aplicación de teléfono o Whatsapp.</p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
