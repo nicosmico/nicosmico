@@ -34,7 +34,7 @@
 ###
 
 <h1 align="left">Proyectos (los más bonitos ✨ jaja)</h1>
-<p>El código de cada uno está publico en Github, puedes verlos en la sección Pinned</p>
+<p>El código de cada uno está publico en Github, puedes verlos en la sección Pinned 👀</p>
 
 ###
 
