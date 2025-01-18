@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">+2.5 años de experiencia en desarrollo web trabajando como Ingeniero de Software Full Stack, especializado en Angular.<br>Me motiva crear soluciones que aporten valor y que brinden una buena experiencia de usuario 🙌.</p>
+<p align="left">+3 años de experiencia en desarrollo web trabajando como Ingeniero de Software Full Stack, especializado en Angular.<br>Me motiva crear soluciones que aporten valor y que brinden una buena experiencia de usuario 🙌.</p>
 
 ###
 
